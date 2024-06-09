@@ -1,11 +1,3 @@
----
-created: 2024-06-08T21:19
-updated: 2024-06-08T21:50
-tags:
-  - sublime-text
-  - sublime-text-settings
-  - settings
----
 # Sublime Text Settings
 
 ## Preferences
